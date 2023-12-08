@@ -110,6 +110,7 @@ const HomeScreen = () => {
               source={require('../../../assets/partage.jpg')}
             />
             <Text style={styles.text}>Partager l'application</Text>
+            <Text style={styles.text}>Partager l'application</Text>
           </TouchableOpacity>
         </View>
       </ScrollView>
